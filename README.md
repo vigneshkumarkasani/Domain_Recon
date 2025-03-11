@@ -1,58 +1,30 @@
-### Domain Recon Tool
-### Overview
-The Domain Recon Tool is a Python-based reconnaissance tool designed to gather WHOIS information and DNS records of a given domain. It provides a simple and interactive GUI for users to perform domain reconnaissance efficiently.
+# 🌐 Domain Recon Tool  
 
-Features
-WHOIS Lookup
-DNS Enumeration (A, AAAA, MX, NS, TXT, SOA)
-GUI with a futuristic theme
-Copy results to clipboard
-Save logs automatically
-Installation
-Prerequisites
-Ensure you have Python 3 installed. If not, install it from Python.org.
+![License](https://img.shields.io/badge/license-MIT-green)  
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)  
 
-Install Required Modules
-Create a virtual environment (recommended) and install dependencies:
+**Domain Recon Tool** is a Python-based reconnaissance tool that gathers WHOIS, DNS, and subdomain enumeration details for a given domain. It features a sleek **GUI interface** with a **dark hacker-themed design**.  
 
-bash
-Copy
-Edit
-python3 -m venv venv  
-source venv/bin/activate  # On Windows, use `venv\Scripts\activate`  
-pip install -r requirements.txt  
-If using Kali Linux, install dependencies manually:
+---
 
-bash
-Copy
-Edit
-sudo apt install python3-tk python3-dnspython python3-whois  
-Usage
-Run the tool using:
+## 🔥 Features  
+✅ **WHOIS Lookup** – Retrieves domain registration details.  
+✅ **DNS Enumeration** – Extracts A, MX, NS, TXT, SOA records.  
+✅ **GUI Interface** – Simple and interactive Tkinter-based design.  
+✅ **Result Logging** – Saves the results for future analysis.  
+✅ **Copy Results** – Easily copy scan results with one click.  
 
-bash
-Copy
-Edit
-python3 domain_recon.py  
-Enter the target domain in the input field.
-Click Start Scan to begin reconnaissance.
-View results in the output section.
-Use Copy Results to copy findings to the clipboard.
-Requirements
-The dependencies are listed in requirements.txt:
+---
 
-perl
-Copy
-Edit
-whois
-dnspython
-requests
-socket
-tk
-Screenshots
-(Add screenshots of the GUI here if available)
-
-License
-This project is open-source and available under the MIT License.
+## 📷 Screenshot  
+![image](https://github.com/user-attachments/assets/9e5abc92-6b73-437a-807c-5f74cddfdb59)
 
 
+---
+
+## 🛠 Installation  
+
+### 1️⃣ Clone the Repository  
+```bash
+git clone https://github.com/your-username/Domain-Recon-Tool.git
+cd Domain-Recon-Tool
