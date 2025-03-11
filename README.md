@@ -48,8 +48,8 @@ python3 domain_recon.py
 3.View and copy results for further analysis.
 
 ### 📜 Requirements 
-# Python 3.8+
-# whois
+## Python 3.8+
+## whois
 # dnspython
 # requests
 # socket
