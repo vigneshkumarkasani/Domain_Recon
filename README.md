@@ -1,5 +1,5 @@
-##Domain Recon Tool
-##Overview
+### Domain Recon Tool
+### Overview
 The Domain Recon Tool is a Python-based reconnaissance tool designed to gather WHOIS information and DNS records of a given domain. It provides a simple and interactive GUI for users to perform domain reconnaissance efficiently.
 
 Features
