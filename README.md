@@ -31,25 +31,9 @@ cd Domain-Recon-Tool
 
 2️⃣ Install Dependencies
 Make sure you have Python 3.8+ installed. Then run:
-
-bash
-pip install -r requirements.txt
-For Debian-based systems (Ubuntu/Kali), install tkinter if missing:
-
-bash
-sudo apt install python3-tk
-🚀 Usage
-Run the tool using:
-
 ```bash
-python3 domain_recon.py
-Enter the target domain.
-Click Start Scan to begin reconnaissance.
-View and copy results for further analysis.
-📜 Requirements
-Python 3.8+
-whois
-dnspython
-requests
-socket
-tkinter
+pip install -r requirements.txt
+
+For Debian-based systems (Ubuntu/Kali), install tkinter if missing:
+``` bash
+sudo apt install python3-tk
