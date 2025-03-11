@@ -17,7 +17,8 @@
 ---
 
 ## 📷 Screenshot  
-![Domain Recon Tool UI](https://via.placeholder.com/800x400?text=Screenshot+of+Tool)  
+![image](https://github.com/user-attachments/assets/d237fd44-a2ff-4c71-820a-d36d73694562)
+
 
 ---
 
