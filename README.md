@@ -17,8 +17,7 @@
 ---
 
 ## 📷 Screenshot  
-![image](https://github.com/user-attachments/assets/9e5abc92-6b73-437a-807c-5f74cddfdb59)
-
+![Domain Recon Tool UI](https://via.placeholder.com/800x400?text=Screenshot+of+Tool)  
 
 ---
 
@@ -28,12 +27,33 @@
 ```bash
 git clone https://github.com/your-username/Domain-Recon-Tool.git
 cd Domain-Recon-Tool
-
-2️⃣ Install Dependencies
+```
+### 2️⃣ Install Dependencies 
 Make sure you have Python 3.8+ installed. Then run:
 ```bash
 pip install -r requirements.txt
-
+```
 For Debian-based systems (Ubuntu/Kali), install tkinter if missing:
-``` bash
+```bash
 sudo apt install python3-tk
+```
+### 🚀 Usage
+Run the tool using:
+```bash
+python3 domain_recon.py
+```
+1.Enter the target domain.
+2.Click Start Scan to begin reconnaissance.
+3.View and copy results for further analysis.
+
+### 📜 Requirements 
+--> Python 3.8+
+--> whois
+--> dnspython
+--> requests
+--> socket
+--> tkinter
+
+
+### 👨‍💻 Author
+Developed by Kasani Vignesh Kumar
